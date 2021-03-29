@@ -1,0 +1,3 @@
+Aplicativo para gerenciamento de objetivos e metas
+
+Sistema para controle de estoque
